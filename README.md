@@ -1,3 +1,6 @@
+Its Simple Java Application which is used to find the  Average and Unigue customers for the given multiple line string.
+
+
 Given a string with the following data (it includes multiple lines): 
 2343225,2345,us_east,RedTeam,ProjectApple,3445s 
 1223456,2345,us_west,BlueTeam,ProjectBanana,2211s 
